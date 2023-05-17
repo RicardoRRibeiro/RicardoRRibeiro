@@ -1,8 +1,14 @@
- ### Bem-vindo(a) Oiee, eu sou o RicardoRRibeiro 😊
+### Bem-vindo(a) Oiee, eu sou o RicardoRRibeiro 😊
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/ricardo_guaxinim47/)
 
 ![ RicardoRRibeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Santiago-Diniz&show_icons=true&theme=dracula)
+
+<div>
+<a href="https://github.com/cadudevemdobro">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cadudevendobro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadudevemdobro&layout=compact&langs_count=6&theme-tokyonight"/>
+ </div>
 
 ## Tecnologias que eu uso no meu dia
 
