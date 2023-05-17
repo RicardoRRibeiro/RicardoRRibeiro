@@ -1,25 +1,23 @@
- ## Bem-vindo(a) ao perfil do 
+### Bem-vindo(a) Oiee, eu sou o RicardoRRibeiro 😊
+
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/ricardo_guaxinim47/)
+
+![ RicardoRRibeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Santiago-Diniz&show_icons=true&theme=dracula)
 
 <div>
-
-<a href="https://github.com/RicardoRRibeiro">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RicardoRRibeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRRibeiro&layout=compact&langs_count=6&theme-tokyonight"/>
+ </div>
 
-  </div>
+## Tecnologias que eu uso no meu dia
 
-<div style="display: inline_block">
+<div style="display: inline_block"><br/>
 
- <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img aling= "center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img aling= "center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img aling= "center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+ </div><br/>
 
-  </div>
-
-</a>
-
-![Snake animation](https://github.com/devendobro/devendobro/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+![Snake animation](https://github.com/RicardoRRibeiro/RicardoRRibeiro/blob/output/github-contribution-grid-snake.svg)
