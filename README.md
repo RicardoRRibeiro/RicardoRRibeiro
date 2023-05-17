@@ -4,8 +4,7 @@
 
 <a href="https://github.com/RicardoRRibeiro">
 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cadudevendobro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RicardoRRibeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRRibeiro&layout=compact&langs_count=6&theme-tokyonight"/>
 
@@ -19,22 +18,7 @@
 
   </div>
 
-
-<div>
-
-src="https://img.shields.io/badge/-Instagram-%23E4405F?style-for-the-badge&logo-instagram&logoColor white"
-
-<a href="https://www.instagram.com/ricardo_guaxinim47/?hl=pt-br" target="_blank"><img
-
-<a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style-for-the-badge&logo-discord&logoColor-white" target="_blank">
-
 </a>
-
-target="_blank"></a>
-
-target="_blank"></a>
-
-target="_blank"></a>
 
 ![Snake animation](https://github.com/devendobro/devendobro/blob/output/github-contribution-grid-snake.svg)
 
