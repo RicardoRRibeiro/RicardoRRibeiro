@@ -19,4 +19,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=RicardoRRibeiro&theme=tokyonight&fire=EB5454&border=FFFFFF)](https://github.com/RicardoRRibeiro)
 
-![Snake animation](https://github.com/RicardoRRibeiro/RicardoRRibeiro/blob/output/github-contribution-grid-snake.svg)
+[![Snake animation](https://github.com/RicardoRRibeiro/RicardoRRibeiro/blob/output/github-contribution-grid-snake.svg)](https://github.com/RicardoRRibeiro)
