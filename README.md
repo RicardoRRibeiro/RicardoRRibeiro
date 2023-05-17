@@ -1,13 +1,13 @@
- ## Bem-vindo(a) ao perfil do Dev em Dobro
+ ## Bem-vindo(a) ao perfil do 
 
 <div>
 
-<a href="https://github.com/cadudevemdobro">
+<a href="https://github.com/RicardoRRibeiro">
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cadudevendobro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadudevemdobro&layout=compact&langs_count=6&theme-tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRRibeiro&layout=compact&langs_count=6&theme-tokyonight"/>
 
   </div>
 
@@ -20,15 +20,11 @@
   </div>
 
 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
-
 <div>
-
-<a href="https://www.youtube.com/devemdobro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style-for-the-badge&logo=youtube&logoColor-white"
 
 src="https://img.shields.io/badge/-Instagram-%23E4405F?style-for-the-badge&logo-instagram&logoColor white"
 
-<a href="https://instagram.com/devemdobro" target="_blank"><img
+<a href="https://www.instagram.com/ricardo_guaxinim47/?hl=pt-br" target="_blank"><img
 
 <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style-for-the-badge&logo-discord&logoColor-white" target="_blank">
 
@@ -37,10 +33,6 @@ src="https://img.shields.io/badge/-Instagram-%23E4405F?style-for-the-badge&logo-
 target="_blank"></a>
 
 target="_blank"></a>
-
-<a href="mailto:gemeos@devemdobro.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style-for-the-badge&logo-gmail&logoColor white" target="_blank"></a>
-
-<a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style-for-the-badge&logo-linkedin&logoColor=white"
 
 target="_blank"></a>
 
