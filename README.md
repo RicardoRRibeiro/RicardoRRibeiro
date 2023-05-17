@@ -1,6 +1,6 @@
  ### Bem-vindo(a) Oiee eu sou o RicardoRRibeiro 😊
 
-
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/ricardo_guaxinim47/)
 
 ## Tecnologias que eu uso no meu dia
 
