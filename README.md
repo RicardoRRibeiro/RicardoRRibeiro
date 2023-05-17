@@ -1,4 +1,4 @@
-### Bem-vindo(a) Oiee, eu sou o RicardoRRibeiro 😊
+<!-- ### Bem-vindo(a) Oiee, eu sou o RicardoRRibeiro 😊
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/ricardo_guaxinim47/)
 
@@ -17,6 +17,7 @@
 <img aling= "center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
  </div><br/>
 
-![Snake animation](https://github.com/devendobro/devendobro/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+![Snake animation](https://github.com/RicardoRRibeiro/RicardoRRibeiro/blob/output/github-contribution-grid-snake.svg) -->
