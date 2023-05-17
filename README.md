@@ -2,11 +2,8 @@
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/ricardo_guaxinim47/)
 
-![ RicardoRRibeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Santiago-Diniz&show_icons=true&theme=dracula)
-
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRRibeiro&layout=compact&langs_count=6&theme-tokyonight"/>
- </div>
+![ RicardoRRibeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoRRibeiro&show_icons=true&theme=tokyonight)
+<a href="https://github.com/RicardoRRibeiro"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRRibeiro&layout=compact&langs_count=6&theme=tokyonight"></a>
 
 ## Tecnologias que eu uso no meu dia
 
@@ -18,6 +15,7 @@
  </div><br/>
 
 
+
 </div>
 
-![Snake animation](https://github.com/RicardoRRibeiro/RicardoRRibeiro/blob/output/github-contribution-grid-snake.svg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RicardoRRibeiro&theme=tokyonight&fire=EB5454&border=FFFFFF)](https://github.com/RicardoRRibeiro)
